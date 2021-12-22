@@ -55,7 +55,7 @@ function App() {
       <Box sx={{ width: '100%' }}>
         <Box sx={{ borderBottom: 1, borderColor: 'divider', bgColor: 'background.paper' }}>
           <AppBar position="static">
-            <Tabs value={value} onChange={handleChange} aria-label="menu" textColor="inherit" indicatorColor="secondary">
+            <Tabs variant="scrollable" scrollButtons="auto" value={value} onChange={handleChange} aria-label="menu" textColor="inherit" indicatorColor="secondary">
               <Tab label="Home" icon={<HomeIcon />} iconPosition="start" {...a11yProps(0)} />
               <Tab label="About Us" icon={<GroupWorkIcon />} iconPosition="start" {...a11yProps(1)} />
               <Tab label="Contact" icon={<PhoneIcon />} iconPosition="start" {...a11yProps(2)} />
@@ -135,6 +135,9 @@ function App() {
         <TabPanel value={value} index={3}>
 
         </TabPanel>
+      </Box>
+      <Box sx={{ position: 'absolute', bottom: 0, textAlign: 'center', color: '#fff', width: '100%', padding: '20px 0', backgroundColor: '#1976d2'}}>
+        Copyright © 2021 - 2022 Master Copyright. All Rights Reserved.
       </Box>
     </div>
   );
