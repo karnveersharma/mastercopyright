@@ -74,7 +74,7 @@ function App() {
             The Leading Brand In Indian Entertainment Now Bring You All The Updates
           </p>
           <p>
-            On Yours Our Latest And Blockmaster Hits Only On Our OFficial Youtube Page Master Copyright Lucknow.
+            On Our Latest And Blockbuster Hits Only On Our Official Youtube Page Master Copyright Lucknow.
           </p>
           <p>
             <b style={{ color: '#ff0000' }}>
@@ -85,7 +85,7 @@ function App() {
             Master Copyright Firms work to providing "NOC" for music's commercial purpose under the Indian
           </p>
           <p>
-            copy right act 1957  and it is also work to stop the piracy  of various film andalbum song,
+            copyright act 1957 and it is also works to stop the piracy of various film and album songs,
           </p>
           <p>
             commercial use without "NOC".
@@ -94,17 +94,13 @@ function App() {
             CD, VCD, DVD, MP3, Memory chip, Downloading, D.J.System, Event Show, Clubs, Hotels are also in its working
           </p>
           <p>
-            criteria. Master Copyright is working for films producers.The Firm works Delhi, Madhya Pradesh,
+            criteria. Master Copyright is working for film producers. This Firm works Delhi, Madhya Pradesh,
           </p>
           <p>
-            Uttar Pradesh, Chhattisgarh, Bihar, Rajasthan, Haryana, Uttarakhand, Punjab, Himachal Pradesh and
+            Uttar Pradesh, Chhattisgarh, Bihar, Rajasthan, Haryana, Uttarakhand, Punjab, Himachal Pradesh and Jharkhand.
           </p>
           <p>
-            Jharkhand.
-          </p>
-
-          <p>
-            Upcoming Artist Here is Your Chance To Make It Big With us,
+            Upcoming Artist Here is Your Chance To Make It Big With Us,
           </p>
           <p>
             <b>
@@ -116,7 +112,7 @@ function App() {
           <p>
             <b>
               ADDRESS
-                </b>
+            </b>
           </p>
           <p>
             <b>
