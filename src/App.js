@@ -69,43 +69,49 @@ function App() {
           </h1>
         </TabPanel>
         <TabPanel value={value} index={1} className="tab-1">
+          <img src="about-us-logo.png" width={200} />
           <p>
-            <h3>Master Copyright - </h3>
-            The Leading Brand In Indian Entertainment Now Bring You All The Updates
+            master copyright provides N.O.C.(License) for commercial use of music under the Indian Copyright Act 1957.
           </p>
           <p>
-            On Our Latest And Blockbuster Hits Only On Our Official Youtube Page Master Copyright Lucknow.
+            It works to prevent plagiarism of various film and album songs commercial use without N.O.C.(License).
           </p>
           <p>
-            <b style={{ color: '#ff0000' }}>
-              Stay Tuned!
-            </b>
+            N.O.C.(License) is provided from our organization for Memory Chip Downloading, DJ System, 
+          </p>
+            <p>
+              Event Show, Club, Hotel etc.
+            </p>
+          <p>
+            <b>
+              Territory -
+            </b> Master Copyright is works Delhi, Madhya Pradesh, Uttar Pradesh, Chhattisgarh, Bihar, Rajasthan,
           </p>
           <p>
-            Master Copyright Firms work to providing "NOC" for music's commercial purpose under the Indian
-          </p>
-          <p>
-            copyright act 1957 and it is also works to stop the piracy of various film and album songs,
-          </p>
-          <p>
-            commercial use without "NOC".
-          </p>
-          <p>
-            CD, VCD, DVD, MP3, Memory chip, Downloading, D.J.System, Event Show, Clubs, Hotels are also in its working
-          </p>
-          <p>
-            criteria. Master Copyright is working for film producers. This Firm works Delhi, Madhya Pradesh,
-          </p>
-          <p>
-            Uttar Pradesh, Chhattisgarh, Bihar, Rajasthan, Haryana, Uttarakhand, Punjab, Himachal Pradesh and Jharkhand.
-          </p>
-          <p>
-            Upcoming Artist Here is Your Chance To Make It Big With Us,
-          </p>
+            Haryana, Uttarakhand, Punjab, Himachal Pradesh and Jharkhand.
+          </p> 
           <p>
             <b>
               Send it Entries On Whatsapp Number 9425734148
             </b>
+          </p>
+          <p>
+            <b>How to get a License (N.O.C.)</b> - To get the N.O.C.(License) from our organization, the applicant has to give his
+          </p>
+          <p>
+            ID and related information such as shop name, shop address, person's name, GST number (if any) on the  
+          </p>
+          <p>
+            given number of the organization and send a receipt for the amount sent through the organization's bank
+          </p>
+          <p>
+            account / Google Pay. Then the person’s N.O.C.(License) is sent to the concerned person on his WhatsApp
+          </p>
+          <p>
+            number or given mail id on behalf of the organization. If any Query to contact us on +91 8081254542(whatsapp)
+          </p>
+          <p>
+            
           </p>
         </TabPanel>
         <TabPanel value={value} index={2}>
