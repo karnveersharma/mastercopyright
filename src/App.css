@@ -1,5 +1,5 @@
-.tab-1 p:first-child {
-  padding-bottom: 35px;
+.tab-1 .MuiBox-root {
+  padding-bottom: 65px;
 }
 .App {
   text-align: center;
