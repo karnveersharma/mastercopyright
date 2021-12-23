@@ -68,7 +68,7 @@ function App() {
             Welcome To Master Copyright
           </h1>
         </TabPanel>
-        <TabPanel value={value} index={1}>
+        <TabPanel value={value} index={1} sx={{paddingBottom: 35}}>
           <p>
             <h3>Master Copyright - </h3>
             The Leading Brand In Indian Entertainment Now Bring You All The Updates
@@ -136,7 +136,7 @@ function App() {
 
         </TabPanel>
       </Box>
-      <Box sx={{ position: 'absolute', bottom: 0, textAlign: 'center', color: '#fff', width: '100%', padding: '20px 0', backgroundColor: '#1976d2'}}>
+      <Box sx={{ position: 'fixed', bottom: 0, textAlign: 'center', color: '#fff', width: '100%', padding: '20px 0', backgroundColor: '#1976d2'}}>
         Copyright © 2021 - 2022 Master Copyright. All Rights Reserved.
       </Box>
     </div>
