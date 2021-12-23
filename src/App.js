@@ -68,7 +68,7 @@ function App() {
             Welcome To Master Copyright
           </h1>
         </TabPanel>
-        <TabPanel value={value} index={1} sx={{paddingBottom: 35}}>
+        <TabPanel value={value} index={1} className="tab-1">
           <p>
             <h3>Master Copyright - </h3>
             The Leading Brand In Indian Entertainment Now Bring You All The Updates
